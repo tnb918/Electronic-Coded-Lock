@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "BUZ",
+					"strict" : false
+				},
+				{
+					"name" : "wrong",
+					"strict" : false
+				},
+				{
+					"name" : "right",
+					"strict" : false
+				},
+				{
+					"name" : "SND",
+					"strict" : false
+				},
+				{
+					"name" : "CLRN1",
+					"strict" : false
+				},
+				{
+					"name" : "CLRN2",
+					"strict" : false
+				},
+				{
+					"name" : "SRSI1",
+					"strict" : false
+				},
+				{
+					"name" : "SRSI2",
+					"strict" : false
+				},
+				{
+					"name" : "CLK1",
+					"strict" : false
+				},
+				{
+					"name" : "CLK2",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Jun 11 17:28:07 2019
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : TNBECL
+Top-level Entity Name : TNBECL
+Family : Cyclone 10 LP
+Device : 10CL006YU256C8G
+Timing Models : Final
+Total logic elements : 60 / 6,272 ( < 1 % )
+    Total combinational functions : 43 / 6,272 ( < 1 % )
+    Dedicated logic registers : 45 / 6,272 ( < 1 % )
+Total registers : 45
+Total pins : 12 / 177 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
